@@ -1,2 +1,2 @@
 # blog-project
-This is the first project through which I expmenrented html and css, creating a responsive nav bar, linking diffrent pages to each other, and ofcourse getting famliar with using toolings as github.
+This is the first project through which I experimented HTML and CSS, creating a responsive navbar, linking different pages to each other, and of course, getting familiar with using toolings as Github.
